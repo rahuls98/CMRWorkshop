@@ -14,3 +14,10 @@ Duration : 2 hours
   * Introduction to Python - 1hr 15mins
   * Break for discussion on different libraries and learning resources
   * Introduction to Pandas and Matplotlib for rudimentary data analysis on Pokemon dataset - Around 15-20 minutes
+
+
+## Requirements
+* Python and pip
+* Jupyter notebook
+* Pandas
+* Maplotlib
