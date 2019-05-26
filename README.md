@@ -1,2 +1,2 @@
 # CMRWorkshop
-Contains the material for the 2 day workshop.
+Contains the material planned for the 2 day workshop.
